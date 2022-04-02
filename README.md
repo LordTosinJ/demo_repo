@@ -1,2 +1,3 @@
 # demo_repo
-I'm just follow the tutorial
+I'm just following the tutorial
+Git is cool! Btw
